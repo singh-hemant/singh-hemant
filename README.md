@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @singh-hemant
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Data Analysis and different frameworks.
-- 💞️ I’m looking to collaborate on Data Science.
-- 📫 How to reach me, message me on twitter.
+- 👀 I’m interested in Cloud and Game Development
+- 🌱 I’m currently learning Azure and its work env.
+- 📫 How to reach me, message me on Twitter.
 Twitter username - @singh_hemant0
 
 <!---
