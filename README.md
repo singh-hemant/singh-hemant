@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @singh-hemant
 - 👀 I’m interested in Cloud and Game Development
-- 🌱 I’m currently learning Azure and its work env.
 - 📫 How to reach me, message me on Twitter.
 Twitter username - @singh_hemant0
 
